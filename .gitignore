@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MihirBookStoreAspMVCCore/.vs/MihirBookStoreAspMVCCore
+/MihirBookStoreAspMVCCore/MihirBookStoreAspMVCCore/bin/Debug/netcoreapp3.1
+/MihirBookStoreAspMVCCore/MihirBookStoreAspMVCCore/obj
